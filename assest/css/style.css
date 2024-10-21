@@ -46,7 +46,7 @@ nav {
   margin: 40px auto;
 }
 
-#cali-intro h2 {
+#cali-intro h2, p {
   margin-bottom: 20px;
   text-align: center;
 }
@@ -55,7 +55,59 @@ nav {
   background-image: url("../videos/Main\ page\ content\ -\ Made\ with\ Clipchamp.gif");
   height: 510px;
   width: 908px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+.primary-image {
+  background-image: url("../videos/Main\ page\ content\ 2-.gif");
+  height: 296px;
+  width: 528px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+/* --------------------------------------Footer */
+
+footer {
+  background-color: #001845;
+  color: #fafafa;
+  min-height: 120px;
+  margin: 0;
+}
+
+.social-links {
+  padding-bottom: 15px;
+}
+
+.social-links li a i {
+  width: 32px;
+  height: 32px;
+  padding: 12px 0;
+  border-radius: 50%;
+  font-size: 13px;
+  line-height: 7px;
+  text-align: center;
+  color: #fafafa;
+  background: #8f8f8f;
+  transition: all 0.35s ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+  background: #e84610;
+}
+
+#footer-details {
+  padding: 20px;
+}
+
+
 
 /*Media query for large or landscape phones (425px and up)*/
 @media screen and (max-width: 425px) {
