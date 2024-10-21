@@ -29,11 +29,27 @@ nav {
     position: absolute;
     bottom: 30px;
     width: 60%;
-    min-height: 200px;
+    min-height: 180px;
     padding-top: 40px;
     padding-left: 10px;
 }
 
 .hero-text > h2, .hero-text > h3 {
   color: #fafafa
+}
+
+/* --------------------------------------Main page */
+
+#cali-intro {
+  width: 90%;
+  margin: 40px auto;
+}
+
+#cali-intro h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.intro-image {
+  background: url();
 }
