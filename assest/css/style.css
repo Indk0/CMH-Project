@@ -4,16 +4,16 @@
 /* --------------------------------------Navbar */
 
 header {
-    text-decoration: none;
-    color: #fafafa;
+  text-decoration: none;
+  color: #fafafa;
 }
 
 nav {
-    text-decoration: none;
-    background-color: #001845;
-    display: flex;
-    justify-content: space-between;
-  }
+  text-decoration: none;
+  background-color: #001845;
+  display: flex;
+  justify-content: space-between;
+}
 
 /* --------------------------------------Hero */
 
@@ -24,17 +24,18 @@ nav {
 }
 
 .hero-text {
-    background-color: rgba(0, 40, 85, 0.7);
-    font-size: 130%;
-    position: absolute;
-    bottom: 30px;
-    width: 60%;
-    min-height: 180px;
-    padding-top: 40px;
-    padding-left: 10px;
+  background-color: rgba(0, 40, 85, 0.7);
+  font-size: 130%;
+  position: absolute;
+  bottom: 30px;
+  width: 60%;
+  min-height: 180px;
+  padding-top: 40px;
+  padding-left: 10px;
 }
 
-.hero-text > h2, .hero-text > h3 {
+.hero-text>h2,
+.hero-text>h3 {
   color: #fafafa
 }
 
@@ -56,25 +57,26 @@ nav {
   width: 908px;
 }
 
-/*media query for large or landscape phones (425px and up)*/
+/*Media query for large or landscape phones (425px and up)*/
 @media screen and (max-width: 425px) {
+
   /*into-image*/
-   .intro-image {
+  .intro-image {
     background: url("../images/media-q-image.png");
     height: 510px;
-  width: 908px;
-   } 
+    width: 908px;
+  }
 }
 
-*media query for large or landscape phones (768px and up)*/
+/*media query for large or landscape phones (768px and up)*/ 
 @media screen and (min--width: 768px) {
   /* into-image */
-   .intro-image {
+  .intro-image {
     background: url("../images/Main page content - Made with Clipchamp.gif");
     height: 510px;
-  width: 908px;
-   }
-
-
-
+    width: 908px;
+  }
 }
+
+
+
