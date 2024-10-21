@@ -51,5 +51,30 @@ nav {
 }
 
 .intro-image {
-  background: url();
+  background-image: url("../videos/Main\ page\ content\ -\ Made\ with\ Clipchamp.gif");
+  height: 510px;
+  width: 908px;
+}
+
+/*media query for large or landscape phones (425px and up)*/
+@media screen and (max-width: 425px) {
+  /*into-image*/
+   .intro-image {
+    background: url("../images/media-q-image.png");
+    height: 510px;
+  width: 908px;
+   } 
+}
+
+*media query for large or landscape phones (768px and up)*/
+@media screen and (min--width: 768px) {
+  /* into-image */
+   .intro-image {
+    background: url("../images/Main page content - Made with Clipchamp.gif");
+    height: 510px;
+  width: 908px;
+   }
+
+
+
 }
