@@ -24,10 +24,6 @@ nav a {
   color: #fafafa;
 }
 
-.nav-cl {
-  color: #fafafa;
-}
-
 /* --------------------------------------Hero */
 
 .hero {
@@ -197,10 +193,10 @@ footer {
 
   /*into-image*/
   .intro-image {
-    background: url("../images/media-q-image.png") no-repeat;
+    background: url("../images/media-q-image.png") no-repeat center;
     height: 510px;
     width: 908px;
-    background-size: contain;
+    background-size: cover;
   }
 
   /* signup image */
