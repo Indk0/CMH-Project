@@ -141,7 +141,13 @@ nav a {
 /* --------------------------------------Guide page */
 
 #title-guide h1{
-  margin-top: 50px;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.reasons-guide {
+  text-align: left;
+  padding: 10px;
 }
 
 /* --------------------------------------Guide page images */
