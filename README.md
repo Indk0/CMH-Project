@@ -39,6 +39,7 @@ If you are the owner of any of the content listed and want a removal, feel free 
 ### Wireframes
 
 The wireframe may differ from the finished website.
+
 ![Wireframe1](/readmefile%20content/images%20readme/Wireframe1.png)
 ![Wireframe3](/readmefile%20content/images%20readme/Wireframe3.png)
 ![Wireframe24](/readmefile%20content/images%20readme/Wireframe24.png)
