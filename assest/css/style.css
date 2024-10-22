@@ -70,6 +70,48 @@ nav {
   text-align: left;
 }
 
+/* --------------------------------------Sign up page */
+
+#signup {
+  background-image: url("../images/signuppageimage.png");
+  background-size: cover;
+  background-position: 75%;
+  padding: 20px 10% 60px 10%;
+  flex-grow: 1;
+}
+
+#signup-form {
+  color: #ffffff;
+  background-color: rgba(0, 18, 51, 0.6);
+  padding: 30px;
+}
+
+#signup-form>h2 {
+  color: #fafafa;
+  margin-bottom: 20px;
+}
+
+.text-input {
+  background: transparent;
+  color: #fafafa;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid #fafafa;
+  border-radius: 2px;
+  padding: 0 5px;
+}
+
+.join-button {
+  margin-top: 20px;
+  border-radius: 2px;
+  padding: 15px 32px;
+  background-color: #002855;
+  color: #fafafa;
+  font-size: 100%;
+}
+
+
 /* --------------------------------------Footer */
 
 footer {
@@ -118,6 +160,16 @@ footer {
     height: 510px;
     width: 908px;
   }
+
+  /* signup image */
+  #signup {
+    background-image: url("../images/signuppageimage.png");
+    background-size: cover;
+    background-position: 50%;
+    padding: 80px;
+    flex-grow: 1;
+  }
+
 }
 
 /*media query for large or landscape phones (768px and up)*/ 
