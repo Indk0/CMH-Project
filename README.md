@@ -1,8 +1,8 @@
 #  CMH | Calisthenics for Mental Health
 
-### Calisthenics for Mental Health is website design for people who are looking to start working for their mental health. The website will aim to give an overview insight into how calisthenics can be beneficial in different ways as it different to other forms of working out.
+#### Calisthenics for Mental Health is website design for people who are looking to start working to improve their mental health as well as physical health. The website will aim to give an insight into how calisthenics can be beneficial in many ways as it is different to other forms of working out.
 
-### Link to the website: https://indk0.github.io/CMH-Project/
+#### Link to the website: https://indk0.github.io/CMH-Project/
 
 ![Responsive view of the website](/readmefile%20content/images%20readme/readme.png)
 
@@ -62,4 +62,5 @@ paste wireframes here.
 
 ### Other Tools
 
-* Tools such as Google, YouTube and ChatGTP was used to find solutions to issues for my project.
+* Tools such as Google, YouTube and ChatGTP was used to find solutions to issues during my project.
+* I also used coding coaches to help solve issues with my code.
