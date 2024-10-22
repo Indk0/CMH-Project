@@ -20,7 +20,11 @@ nav a {
   text-decoration: none;
 }
 
-.nav-link  a {
+.nav-link {
+  color: #fafafa;
+}
+
+.nav-cl {
   color: #fafafa;
 }
 
@@ -144,6 +148,10 @@ nav a {
   margin-top: 50px;
 }
 
+/* --------------------------------------Guide page images */
+
+
+
 /* --------------------------------------Footer */
 
 footer {
@@ -189,11 +197,10 @@ footer {
 
   /*into-image*/
   .intro-image {
-    background: url("../images/media-q-image.png");
+    background: url("../images/media-q-image.png") no-repeat;
     height: 510px;
     width: 908px;
-    background-size: cover;
-    background-position: center;
+    background-size: contain;
   }
 
   /* signup image */
