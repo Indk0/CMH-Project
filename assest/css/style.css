@@ -151,7 +151,38 @@ nav a {
 }
 
 /* --------------------------------------Guide page images */
+.img1 {
+background-image: url("../videos/Guide\ page\ 1.gif");
+height: 408px;
+width: 726px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+background-position: center;
+background-size: cover;
+}
 
+.img2 {
+background-image: url("../videos/guide\ page\ content\ 2.gif");
+height: px;
+width: px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+background-position: center;
+background-size: cover;
+}
+
+.img3 {
+  background-image: url("../videos/guide\ page\ content\ 3\ .gif");
+  height: px;
+  width: px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center;
+  background-size: cover;
+  }
 
 
 /* --------------------------------------Footer */
@@ -226,6 +257,29 @@ footer {
     padding-left: 10px;
     padding-right: 10px;
   }
+/* Guide page image 1 */
+  .img1 {
+    background-image: url("../videos/Guide\ page\ 1.gif") no-repeat center;
+      height: 408px;
+      width: 726px;
+      background-size: cover;
+    }
+
+/* Guide page image 2 */
+.img2 {
+  background-image: url("../videos/guide\ page\ content\ 2.gif") no-repeat center;
+    height: 466px;
+    width: 828px;
+    background-size: cover;
+  }
+
+  /* Guide page image 3 */
+  .img3 {
+    background-image: url("../videos/guide\ page\ content\ 3\ .gif") no-repeat center;
+      height: 644px;
+      width: 1144px;
+      background-size: cover;
+    }
 
 }
 
