@@ -68,3 +68,26 @@ The wireframe may differ from the finished website.
 
 * Tools such as Google, YouTube and ChatGTP was used to find solutions to issues during my project.
 * I also used coding coaches to help solve issues with my code.
+
+## Validation/Performance
+
+### Validation
+Both of my HTML and CSS were validated with no errors, except for three lines of code from my CSS, the validator highlighted three errors with my image 1, 2 and 3 CSS code however, I am not sure what the error is as the images work as they should in the code and website.
+
+* HTML validation:
+![HTML validation](/readmefile%20content/images%20readme/HTMLValidator.png)
+
+* CSS validation:
+![CSS validation](/readmefile%20content/images%20readme/CSSValidator.png)
+
+### Performance
+#### Mobile Performance
+Mobile Home Page
+Mobile Guide Page
+Mobile Sign up page
+
+
+#### Desktop Performance
+Desktop Home Page
+Desktop Guide Page
+Desktop Sign up page
