@@ -82,12 +82,17 @@ Both of my HTML and CSS were validated with no errors, except for three lines of
 
 ### Performance
 #### Mobile Performance
-Mobile Home Page
-Mobile Guide Page
-Mobile Sign up page
-
+##### Mobile Home Page:
+![Mobile Home page](/readmefile%20content/images%20readme/MHP.png)
+##### Mobile Guide Page:
+![Mobile Guide page](/readmefile%20content/images%20readme/MGP.png)
+##### Mobile Sign up page:
+![Mobile Signup page](/readmefile%20content/images%20readme/MSP.png)
 
 #### Desktop Performance
-Desktop Home Page
-Desktop Guide Page
-Desktop Sign up page
+##### Desktop Home Page:
+![Desktop Home page](/readmefile%20content/images%20readme/MHP1.png)
+##### Desktop Guide Page:
+![Desktop Guide page](/readmefile%20content/images%20readme/MGP1.png)
+##### Desktop Sign up page:
+![Desktop Signup page](/readmefile%20content/images%20readme/MSP1.png)
